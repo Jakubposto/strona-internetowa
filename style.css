@@ -1,0 +1,17 @@
+img{
+     width: 300px ;
+     border: gold ;
+     margin: 15px;
+     border-radius: 150px;
+}
+div{
+ display: flex;
+ justify-content: right;
+ align-items: center;
+ height: 100vh;
+
+ /* flex directon:column; */
+ /* background-color: aquamarie */
+
+
+}
